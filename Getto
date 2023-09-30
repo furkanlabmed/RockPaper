@@ -36,7 +36,7 @@ def play_rps():
        print('Rock, Paper, Scissors - Shoot!')
 
        user_choice = input('Choose your weapon'
-                           ' [R]ock], [P]aper, or [S]cissors: ')
+                           ' [R]ock], [P]aper, or [S]cisors: ')
 
        if not re.match("[SsRrPp]", user_choice):
            print('Please choose a letter:')
