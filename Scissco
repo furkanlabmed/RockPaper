@@ -26,7 +26,7 @@ while True:
 		# initialize value of choice_name variable
 	# corresponding to the choice value
 	if choice == 1:
-		choice_name= 'Rock'
+		choice_name= 'Rocck'
 	elif choice == 2:
 		choice_name= 'Paper'
 	else:
