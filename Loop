@@ -7,7 +7,7 @@ while True:
     print(f"\nYou chose {user_action}, computer chose {computer_action}.\n")
 
     if user_action == computer_action:
-        print(f"Both players selected {user_action}. It's a tie!")
+        print(f"Both players selected {user_action}. It's a lllie!")
     elif user_action == "rock":
         if computer_action == "scissors":
             print("Rock smashes scissors! You win!")
