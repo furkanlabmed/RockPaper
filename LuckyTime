@@ -5,7 +5,7 @@ def determine_winner(user_action, computer_action):
         if computer_action == Action.Scissors:
             print("Rock smashes scissors! You win!")
         else:
-            print("Paper covers rock! You lose.")
+            print("Paper Covers rock! You lose.")
     elif user_action == Action.Paper:
         if computer_action == Action.Rock:
             print("Paper covers rock! You win!")
