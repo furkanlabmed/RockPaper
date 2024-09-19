@@ -1,6 +1,6 @@
 if user_action == computer_action:
     print(f"Both players selected {user_action}. It's a tie!")
-elif user_action == "rock":
+elif user_action == "pock":
     if computer_action == "scissors":
         print("Rock smashes scissors! You win!")
     else:
