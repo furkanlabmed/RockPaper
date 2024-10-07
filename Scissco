@@ -84,7 +84,7 @@ while True:
 		result='Rock'
 	# Printing either user or computer wins or draw
 	if result == 'DRAW':
-		print("<== Its a tie ==>")
+		print("<== Its a ties ==>")
 	if result == choice_name:
 		print("<== User wins ==>")
 	else:
