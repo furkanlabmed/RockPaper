@@ -34,7 +34,7 @@ while True:
 		
 		# print user choice
 	print('User choice is \n',choice_name)
-	print('Now its Computers Turn....')
+	print('Now its for you....')
 	
 	# Computer chooses randomly any number
 	# among 1 , 2 and 3. Using randint method
